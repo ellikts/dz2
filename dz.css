@@ -1,0 +1,24 @@
+h1{
+	color: red;
+}
+.example-text{
+	max-width: 100px;
+	background-color: blue;
+	color: white;
+}
+span{
+	color: red;
+}
+h2{
+	background-color: green;
+	color: white;
+}
+.explame-li{
+	border: 1px solid black;
+}
+.explame-li2{
+    border: 1px solid black;
+}
+.explame-li3{
+    border: 1px solid black;
+}
